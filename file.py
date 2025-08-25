@@ -282,7 +282,7 @@ def main():
 
         elif(choice == 4):
 
-            break;
+            break
 
         else:
 
